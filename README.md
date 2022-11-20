@@ -28,4 +28,4 @@
 ### 2) App
 ![image](https://user-images.githubusercontent.com/79623246/202883280-f9dfd98f-dbf8-404e-bef0-db0e79c8aa8a.png)
 ### 3) Simulation
-<img src='./src/simulation.gif'>
+[![Simulation](https://img.youtube.com/vi/aPFlgCNYPrg/0.jpg)](https://youtu.be/aPFlgCNYPrg) 
